@@ -1,5 +1,5 @@
 # Simple Web App Project
-### @tbonilla
+### @null-talisman
 This is a simple web app project that leverages the following technologies: 
   - Docker
   - Python
